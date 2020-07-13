@@ -5,4 +5,5 @@
 
 尚未解決的事項為：
 1. input type="text" name="a1" style="width: 100%;height: 100%;font-size: 30pt;font-family: DFKai-sb;margin: 0; border: none"
+
 其中height100%無法達成
