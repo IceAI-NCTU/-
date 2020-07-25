@@ -4,6 +4,7 @@
 2. 如果要變更checkbox或是radio的大小，必須調整width跟height
 
 尚未解決的事項為：
+
 1. 
 ~~~html
 <input type="text" name="a1" style="width: 100%;height: 100%;font-size: 30pt;font-family: DFKai-sb;margin: 0; border: none">  <br>
